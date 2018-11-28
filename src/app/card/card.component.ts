@@ -14,7 +14,7 @@ export class CardComponent implements OnInit {
 
   ngOnInit() {
     this.title = "Credits"
-    this.summary = "Click below to view";
+    this.summary = "Click the button to view"
   }
 
 }
